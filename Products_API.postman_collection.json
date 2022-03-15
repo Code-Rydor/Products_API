@@ -94,7 +94,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"Mathews V3 Compound Bow\",\r\n    \"description\": \"Black, 31inch ATA\",\r\n    \"price\": 1199.0,\r\n    \"inventory_quantity\": 30\r\n}",
+					"raw": "{\r\n    \"id\": 4,\r\n    \"title\": \"Elite EnKore Compound Bow\",\r\n    \"description\": \"Tan, 33inch ATA\",\r\n    \"price\": 1149.0,\r\n    \"inventory_quantity\": 20,\r\n    \"image\": \"https://www.elitearchery.com/product/enkore\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -102,7 +102,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/products/1/",
+					"raw": "http://127.0.0.1:8000/api/products/4/",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -114,7 +114,7 @@
 					"path": [
 						"api",
 						"products",
-						"1",
+						"4",
 						""
 					]
 				}
